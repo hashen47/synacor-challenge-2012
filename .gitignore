@@ -1,0 +1,4 @@
+golang/bin/*
+!golang/bin/.keep
+clang/bin/*
+!clang/bin/.keep
